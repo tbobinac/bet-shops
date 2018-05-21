@@ -34,7 +34,7 @@ Please refer to the screenshots in folder "{platform}_screenshots".
 	* 400px width
 	* 2px white border
 * Right sidebar:
-	* 215px width
+	* 315px width
 	* white background
 	* 22px top/bottom, 18px left/right padding
 * 15px margins between map/sidebar and sidebar boxes 
