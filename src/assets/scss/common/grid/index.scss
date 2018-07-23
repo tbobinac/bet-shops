@@ -1,0 +1,32 @@
+.l-wrap{
+  max-width: 730px;
+  margin-right: auto;
+  margin-left: auto;
+  display: -webkit-flex;
+  display:flex;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+
+  @media (max-width: $sm){
+    -webkit-flex-direction:column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+  .l-map{
+    display: -webkit-flex;
+    display:flex;
+    max-width: 400px;
+    width:100%;
+  }
+
+  .l-sidebar{
+    max-width: 315px;
+    width: 100%;
+
+    @media (max-width: $sm) {
+      max-width: 400px;
+    }
+  }
+}
