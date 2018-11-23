@@ -1,6 +1,7 @@
 # Run app
 
 npm install
+
 npm run dev
 
 # Betshops
